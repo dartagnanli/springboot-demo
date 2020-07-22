@@ -9,6 +9,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s() {
-        return "hello K8s <br/>111222333444555 ";
+        return "hello K8s <br/>1112223334445556 ";
     }
 }
